@@ -1,0 +1,93 @@
+#container{
+    height: auto;
+    min-width: 100dvw;
+    background: radial-gradient(circle at top left, #e73847, #a8dadb, #457b9d, #1d3557); /* Aplica un fondo degradado */
+}
+
+
+
+input{
+    border-width: 3px;
+   /*  width: 500px;; */
+}
+
+#carouselExampleAutoplaying{
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+
+
+.carousel-item img {
+    max-width: 100%;
+    height: 374px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#comend{
+    background-color: rgba(255,255,255, 0.5);
+    min-width: 1920px;
+    height: auto;
+}
+
+
+
+#text-comend h5{
+    color: #263c84;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 42px;
+}
+
+#span-comend{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-weight: bold;
+
+}
+
+
+
+.card{
+    width: 12rem;
+    
+}
+
+
+.card-img-top{
+    width: 5rem;
+}
+
+.btn{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+[id^=btn-new-prod-]{
+    background-color: #f56c5e;
+    color: #ffffff;
+}
+
+
+[id^=btn-new-prod-]:hover{
+    color: #1d3557;
+}
+
+
+[id^=btncat-]{
+    height: auto;
+    width: auto;
+
+    background-color: rgb(255, 255, 255,0);
+}
+
+[id^=btn-img-]{
+    height: 440px;
+}
+
+[id^=btn2-img-]{
+
+    width: 420px;
+}
+
+
