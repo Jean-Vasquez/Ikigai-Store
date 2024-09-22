@@ -75,9 +75,9 @@ export class ProductListComponent implements OnInit {
     this.loadCart()
   }
 
-  /* selectProductID(item: string){
+   selectProductID(item: string){
     this.cartService.getProducId(item)
   }
- */
+ 
 
 }
